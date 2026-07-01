@@ -1,0 +1,12 @@
+# Solicitud para una IA
+
+Quero que a IA gere uma tabela de tarefas domésticas para meus filhos, com o objetivo de melhorar a adesão e a limpeza do domicílio.
+
+## Contexto
+
+- Rotina de tarefas diárias e semanais.
+
+## Requisitos
+
+- O conteúdo deve ter formato de tabela simples.
+- Evite linguagem técnica.
