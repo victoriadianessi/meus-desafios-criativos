@@ -1,0 +1,1 @@
+Quero que a IA gere uma tabela de tarefas domésticas para meus filhos, com o objetivo de melhorar a adesão e a limpeza do domicílio. Considere o seguinte contexto: rotina de tarefas diárias e semanais. O conteúdo deve ter formato de tabela simples. Evite linguagem técnica.
